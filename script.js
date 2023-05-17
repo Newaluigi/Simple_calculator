@@ -16,6 +16,8 @@
 //         break;
 //     }
 
+// *************SOLUTION****************************
+
 // Etape 1 - Sélectionner nos éléments
 const form = document.querySelector("#formulaire");
 const input = document.querySelector("#prix");
